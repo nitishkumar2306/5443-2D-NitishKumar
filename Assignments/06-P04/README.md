@@ -35,7 +35,7 @@ There are two ways to use this project:
 **Prerequisites:**
 Install following dependencies using command line. Install them in the following formate pip install <dependency name>
 Ex: pip install pytmx
-    • pytmx
+    • | pytmx |
     • pygame
     • json
     • rich
