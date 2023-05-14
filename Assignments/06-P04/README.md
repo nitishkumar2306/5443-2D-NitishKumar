@@ -20,7 +20,7 @@ Game Start menu:
 
 **Game end screen:**
 
-https://github.com/nitishkumar2306/5443-2D-NitishKumar/assets/123429249/e9f71945-1873-4711-85b9-11a9649a9af0
+![image](https://github.com/nitishkumar2306/5443-2D-NitishKumar/assets/123429249/e4da5a47-193b-43ad-9f12-aebf16074614)
 
 **USAGE:**
 
