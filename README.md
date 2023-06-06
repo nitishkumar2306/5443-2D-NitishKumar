@@ -1,4 +1,6 @@
 ## Repo: 5443 2D Games - Python
+#### Name: Nitish Kumar Erelli
+
 #### Email: erellinitishkumar@gmail.com
 
 ##### Image:
